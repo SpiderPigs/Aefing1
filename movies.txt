@@ -2,3 +2,6 @@ Atli:
 Shawshank Redemtion
 Fever Pitch
 Pulp Fiction
+
+Ragnar:
+Desperado
